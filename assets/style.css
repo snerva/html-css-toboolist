@@ -76,13 +76,23 @@ main{
     padding: 15px 50px 15px;
 }
 
+
 #check{
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50%;
+    padding: 3px;
     color: var(--color-check);
 }
 
 #cross{
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50%;
+    padding: 3px;
     color: var(--color-cross);
 }
+
 
 button{
   border: none;
