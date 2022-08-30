@@ -9,4 +9,27 @@
     --color-check: #6CC4AF;
     --color-cross: #EA4237;
     --color-background: #F6F8F9;
+    --color-background-section: white;
+}
+
+body{
+    background-color: var(--color-background);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: var(--color-background-section);
+}
+
+.logo{
+    height: 50px;
+    margin: 0.5rem 0rem 0.5rem 0;
+    vertical-align: middle;
+}
+
+#text_logo{
+    color: var(--color-dark);
+    font-size: 2.5rem;
+    vertical-align: middle;
+
 }
