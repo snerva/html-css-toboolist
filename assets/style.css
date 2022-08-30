@@ -75,6 +75,15 @@ main{
 .list{
     padding: 15px 50px 15px;
 }
+
+#check{
+    color: var(--color-check);
+}
+
+#cross{
+    color: var(--color-cross);
+}
+
 button{
   border: none;
   border-radius: 10px;
