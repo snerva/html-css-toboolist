@@ -60,7 +60,21 @@ hr{
     color: var(--color-background);
 }
 
+main{
+    background-color: var(--color-background-section);
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 2px;
+}
 
+.buttons{
+    padding: 15px 50px 15px;
+}
+
+.list{
+    padding: 15px 50px 15px;
+}
 button{
   border: none;
   border-radius: 10px;
